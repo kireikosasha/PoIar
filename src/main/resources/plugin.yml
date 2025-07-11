@@ -1,0 +1,4 @@
+name: PoIar
+version: '${version}'
+main: ah.poiar.PoIar
+api-version: '1.13'
